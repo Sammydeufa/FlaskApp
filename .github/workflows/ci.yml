@@ -67,4 +67,4 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "❌ Pipeline échoué - FlaskApp"
           body: "Un test a échoué sur le dépôt FlaskApp."
-          to: ton-email@gmail.com
+          to: sammydeufa@gmail.com
